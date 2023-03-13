@@ -1,0 +1,16 @@
+# Anotações do Curso "Introdução ao Desenvolvimento Moderno de Software"
+
+
+
+Sistema Desktop x Sistema Web x Mobile
+
+## Profissionais envolvidos:
+
+- UX Designer
+- UI Designer
+- Desenvolvedor Front End
+- Desenvolvedor Back End
+- Desenvolvedor Full Stack
+- Quality Assurance (QA)
+- Infraestrutura
+- Profissional de Cloud Computing

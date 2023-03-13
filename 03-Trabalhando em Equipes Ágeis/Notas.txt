@@ -1,0 +1,18 @@
+# Anotações do Curso: "Trabalhando com Equipes Ágeis"
+
+
+
+Agilidade x Rapidez
+
+Manifesto Ágil
+
+12 Princípios da Metodologia Ágil
+
+
+
+### Metodologias Ágeis:
+
+- Framework SCRUM
+- Kanban
+- XP
+- OKR

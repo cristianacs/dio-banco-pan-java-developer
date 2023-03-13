@@ -1,0 +1,12 @@
+# Notas do curso "Introdução ao Git e ao GitHub"
+
+
+
+git init
+
+git add
+
+git commit
+
+git push
+
